@@ -1,0 +1,14 @@
+.metadata
+.recommenders
+Translator/.settings
+Translator/bin
+Translator/.classpath
+Translator/.project
+Environment/.settings
+Environment/bin
+Environment/.classpath
+Environment/.project
+Examples/.settings
+Examples/bin
+Examples/.classpath
+Examples/.project
